@@ -1,0 +1,100 @@
+commit 21cff285cb3a6dff4d6f25b336a2e8c05e6f1f20
+Author: manimala ramesh <rmanimala5@gmail.com>
+Date:   Thu Sep 28 11:52:44 2023 +0530
+
+    Edited for merge conflict
+
+commit 48b397a58af855100341737de2f27c43eb1974ae
+Merge: b04c82c 9e5200c
+Author: manimala ramesh <rmanimala5@gmail.com>
+Date:   Thu Sep 28 11:50:06 2023 +0530
+
+    Merge branch 'tester2'
+
+commit b04c82c1a1488e0a7605704b1ffe32e53cd81d8d
+Author: manimala ramesh <rmanimala5@gmail.com>
+Date:   Thu Sep 28 11:01:59 2023 +0530
+
+    tester4 changes commit
+
+commit 971eec567af4cc1ad29b47204c93117315dce528
+Merge: a14b77a 30535f7
+Author: manimala ramesh <rmanimala5@gmail.com>
+Date:   Thu Sep 28 10:52:19 2023 +0530
+
+    Merge branch 'tester4'
+
+commit 30535f75a79f5f908ca20b23e025bba824008186
+Author: manimala ramesh <rmanimala5@gmail.com>
+Date:   Thu Sep 28 10:50:48 2023 +0530
+
+    My commit in the tester4 repository
+
+commit a14b77af84b39a34f59db5d5b5144f22f5816290
+Merge: 4440013 80f1f8a
+Author: manimala ramesh <rmanimala5@gmail.com>
+Date:   Mon Sep 25 17:11:03 2023 +0530
+
+    Merge branch 'tester3'
+
+commit 80f1f8a00261b4c9483475d5fc2cfbbb63ff2f96
+Author: manimala ramesh <rmanimala5@gmail.com>
+Date:   Mon Sep 25 17:10:16 2023 +0530
+
+    The new file tester3file has been created
+
+commit a8e1420c7be1da3d88b38822b8386405a7555f73
+Merge: 76836f3 408fc80
+Author: manimala ramesh <rmanimala5@gmail.com>
+Date:   Mon Sep 25 17:01:38 2023 +0530
+
+    Merge branch 'tester1' of https://github.com/rmanimala5/mergeconflict into tester1
+
+commit 76836f372ef2183c1171237347ac51275004083b
+Author: manimala ramesh <rmanimala5@gmail.com>
+Date:   Mon Sep 25 16:55:59 2023 +0530
+
+    testInfo1 file has been committed in tester1 branch
+
+commit 408fc80ae009197f4d5e14db3ed956c152ae9aea
+Author: rmanimala5 <43721926+rmanimala5@users.noreply.github.com>
+Date:   Thu Sep 14 05:55:48 2023 +0530
+
+    Create testfile1.txt
+
+commit 44400135d5a9ca00af0b014668dc9dcef50fff70
+Merge: b24f1bb 43fb9d6
+Author: manimala ramesh <rmanimala5@gmail.com>
+Date:   Wed Sep 13 17:05:09 2023 +0530
+
+    updated myinfo file
+
+commit 43fb9d6717ace4df3fe442374ee9557caddd45d7
+Author: manimala ramesh <rmanimala5@gmail.com>
+Date:   Wed Sep 13 17:01:21 2023 +0530
+
+    updated the myinfo file by tester1
+
+commit b24f1bb8be4419a2defe588dcb7db132d4a450a8
+Author: manimala ramesh <rmanimala5@gmail.com>
+Date:   Wed Sep 13 16:59:15 2023 +0530
+
+    updated the myinfo file by tester2
+
+commit 9e5200cbb3bcb6e7d4d124ff840b00d50f06a2af
+Author: manimala ramesh <rmanimala5@gmail.com>
+Date:   Wed Sep 13 16:55:54 2023 +0530
+
+    updated the changes in the file myinfo
+
+commit ed3e3e9b1487526b74824af4c7aed9aa1d63d88b
+Author: rmanimala5 <43721926+rmanimala5@users.noreply.github.com>
+Date:   Wed Sep 13 16:51:32 2023 +0530
+
+    Create myinfo
+
+commit 86600aeaac872665ea633299d7a0648be99cbe66
+Author: rmanimala5 <43721926+rmanimala5@users.noreply.github.com>
+Date:   Wed Sep 13 16:47:32 2023 +0530
+
+    Initial commit
